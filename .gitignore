@@ -1,5 +1,8 @@
 # adding config.py  file to handle database connection
 config.py
+
+# Going to ignore csv files
+*.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
